@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Explore Prince William County</string>
+    <string name="category_history">History</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_dining">Dining</string>
+    <string name="category_shopping">Shopping</string>
+
+    <!-- String information for sights -->
+    <string name="sight1_name">Potomac Nationals Baseball</string>
+    <string name="sight1_location">County Center</string>
+    <string name="sight1_URL">https://www.milb.com/potomac</string>
+</resources>

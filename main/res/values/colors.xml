@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the dining category -->
+    <color name="category_dining">@android:color/holo_blue_light</color>
+
+    <!-- Background color for the dining category -->
+    <color name="category_history">@android:color/holo_orange_light</color>
+
+    <!-- Background color for the dining category -->
+    <color name="category_shopping">@android:color/holo_green_light</color>
+
+    <!-- Background color for the dining category -->
+    <color name="category_sights">@android:color/holo_red_light</color>
+
+</resources>
